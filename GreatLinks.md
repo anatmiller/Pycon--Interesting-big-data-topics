@@ -1,4 +1,4 @@
-<img src="top_right_logo.png" alt="Logo" width="100" align="right">
+<img src="top_right_logo.png" alt="Logo" width="100" Height="100" align="right">
 
 Hi,
 
